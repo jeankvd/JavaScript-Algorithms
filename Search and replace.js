@@ -1,6 +1,6 @@
-
+/*Algorithm that searcheas for a word and then replaces it with the third parameter*/
 function myReplace(str, before, after) {
-  str = str.split(" ");
+  str = str.split('' );
   for (var i = 0; i < str.length; i++){
     
     if (str[i] == before) {
