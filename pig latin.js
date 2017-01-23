@@ -1,1 +1,1 @@
-
+/*if the string ends in a add nay*/
